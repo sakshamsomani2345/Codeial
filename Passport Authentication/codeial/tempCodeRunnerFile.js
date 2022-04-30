@@ -1,0 +1,1 @@
+const MongoStore = require('connect-mongo')(session);
